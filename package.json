@@ -16,6 +16,8 @@
     "gulp-cli": "^2.2.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^5.0.0",
+    "node-normalize-scss": "^8.1.2",
+    "node-sass": "^7.0.3",
     "sass": "^1.35.1"
   },
   "browserslist": [
@@ -23,9 +25,5 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ],
-  "dependencies": {
-    "normalize-scss": "^7.0.1",
-    "normalize.css": "^8.0.1"
-  }
+  ]
 }

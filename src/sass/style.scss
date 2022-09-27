@@ -1,8 +1,11 @@
 @import 'base/variables';
 @import 'blocks/promo';
 @import 'base/normilize';
+@import 'blocks/header';
+@import 'blocks/buttons';
+@import 'blocks/benefits';
 *{
-    font-family: 'Museo Sans Cyrl',sans-serif;
+    font-family: 'Noto Sans Mono', sans-serif;
 }
 .container{
     max-width: 950px;

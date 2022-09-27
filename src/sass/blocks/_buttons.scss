@@ -1,0 +1,20 @@
+.button{
+    background: $main-color;
+    border-radius: 5px;
+    width: 153px;
+    height: 32px;
+    border:0;
+    color: #ffff;
+    font-family: 'MuseoModerno';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 19px;
+
+    &_main{
+        margin-top: 67px;
+        width: 300px;
+        height: 50px;
+        text-transform: uppercase;
+    }
+}
