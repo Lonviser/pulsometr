@@ -1,7 +1,12 @@
 .carousel{
    padding: 81px 0;
+   .container{
+      display: flex;
+      justify-content: center;
+   }
    &__inner{
-    width: 750px;
+    max-width: 750px;
+    max-height: 527px;
     margin:  0 auto;
    }
    .slick-prev,.slick-next{
