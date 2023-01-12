@@ -55,3 +55,9 @@
 #consultation, #order, #thanks{
     display: none;
 }
+
+@media(max-width:450px){
+    .modal{
+        width: 60%;
+    }
+}
