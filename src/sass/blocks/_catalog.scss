@@ -187,3 +187,15 @@
     }
     
 }
+
+@media (max-width:1120px){
+    .catalog__content_active{
+        justify-content: center;
+    }
+}
+@media(max-width:375px){
+    .catalog__tabs {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
