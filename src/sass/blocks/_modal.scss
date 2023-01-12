@@ -51,6 +51,16 @@
     }
 }
 
+input.error{
+    border:1px solid red;
+}
+
+label.error{
+    color: $main-color;
+    border:none;
+    text-align: center;
+    margin-bottom: 15px;
+}
 
 #consultation, #order, #thanks{
     display: none;
