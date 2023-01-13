@@ -41,6 +41,13 @@
     }
 }
 
+.heart{
+    animation: heartbeat 1.5s ease infinite;
+    &:hover{
+        animation-play-state:paused;
+    }
+}
+
 @media(max-width:768px){
     .benefits{
         &__benefits_blocks{

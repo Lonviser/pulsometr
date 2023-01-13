@@ -1,4 +1,5 @@
 @import 'base/variables';
+@import 'base/animations';
 @import 'blocks/promo';
 @import 'base/normilize';
 @import 'blocks/header';
@@ -11,6 +12,8 @@
 @import 'blocks/catalog';
 @import 'blocks/footer';
 @import 'blocks/modal';
+@import 'blocks/pageup';
+
 *{
     font-family: 'Noto Sans Mono', sans-serif;
 }
