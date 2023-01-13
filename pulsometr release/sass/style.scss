@@ -1,0 +1,27 @@
+@import 'base/variables';
+@import 'base/animations';
+@import 'blocks/promo';
+@import 'base/normilize';
+@import 'blocks/header';
+@import 'blocks/buttons';
+@import 'blocks/benefits';
+@import 'blocks/consultation';
+@import 'blocks/titles';
+@import 'blocks/forms';
+@import 'blocks/carousel';
+@import 'blocks/catalog';
+@import 'blocks/footer';
+@import 'blocks/modal';
+@import 'blocks/pageup';
+@import 'blocks/reviews';
+
+*{
+    font-family: 'Noto Sans Mono', sans-serif;
+}
+.container{
+    max-width: 1120px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+
